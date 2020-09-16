@@ -1,0 +1,124 @@
+C:\Users\TMK01\source\repos\comandas\comandas\bin\Debug\comandas.exe.config
+C:\Users\TMK01\source\repos\comandas\comandas\bin\Debug\comandas.exe
+C:\Users\TMK01\source\repos\comandas\comandas\bin\Debug\comandas.pdb
+C:\Users\TMK01\source\repos\comandas\comandas\obj\Debug\comandas.csprojAssemblyReference.cache
+C:\Users\TMK01\source\repos\comandas\comandas\obj\Debug\comandas.Form1.resources
+C:\Users\TMK01\source\repos\comandas\comandas\obj\Debug\comandas.Properties.Resources.resources
+C:\Users\TMK01\source\repos\comandas\comandas\obj\Debug\comandas.csproj.GenerateResource.cache
+C:\Users\TMK01\source\repos\comandas\comandas\obj\Debug\comandas.csproj.CoreCompileInputs.cache
+C:\Users\TMK01\source\repos\comandas\comandas\obj\Debug\comandas.exe
+C:\Users\TMK01\source\repos\comandas\comandas\obj\Debug\comandas.pdb
+C:\Users\Arthur\Desktop\Bom Delivery C#\comandas\obj\Debug\comandas.csprojAssemblyReference.cache
+C:\Users\Arthur\Desktop\Bom Delivery C#\comandas\obj\Debug\comandas.Form1.resources
+C:\Users\Arthur\Desktop\Bom Delivery C#\comandas\obj\Debug\comandas.Properties.Resources.resources
+C:\Users\Arthur\Desktop\Bom Delivery C#\comandas\obj\Debug\comandas.csproj.GenerateResource.cache
+C:\Users\Arthur\Desktop\Bom Delivery C#\comandas\obj\Debug\comandas.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\Bom Delivery C#\comandas\obj\Debug\comandas.Form1.pt-BR.resources
+C:\Users\Arthur\Desktop\Bom Delivery C#\comandas\bin\Debug\Bom Delivery.exe.config
+C:\Users\Arthur\Desktop\Bom Delivery C#\comandas\bin\Debug\Bom Delivery.exe
+C:\Users\Arthur\Desktop\Bom Delivery C#\comandas\bin\Debug\Bom Delivery.pdb
+C:\Users\Arthur\Desktop\Bom Delivery C#\comandas\bin\Debug\pt-BR\Bom Delivery.resources.dll
+C:\Users\Arthur\Desktop\Bom Delivery C#\comandas\obj\Debug\pt-BR\Bom Delivery.resources.dll
+C:\Users\Arthur\Desktop\Bom Delivery C#\comandas\obj\Debug\Bom Delivery.exe
+C:\Users\Arthur\Desktop\Bom Delivery C#\comandas\obj\Debug\Bom Delivery.pdb
+C:\Users\Arthur\Desktop\Bom Delivery C#\comandas\obj\Debug\comandas.Forms.Main.resources
+C:\Users\Arthur\Desktop\Bom Delivery C#\comandas\obj\Debug\comandas.Forms.Pedido.resources
+C:\Users\TMK01\Downloads\Bom Delivery C# (1)\comandas\obj\Debug\comandas.csprojAssemblyReference.cache
+C:\Users\TMK01\Downloads\Bom Delivery C# (1)\comandas\obj\Debug\comandas.Forms.Main.resources
+C:\Users\TMK01\Downloads\Bom Delivery C# (1)\comandas\obj\Debug\comandas.Forms.Pedido.resources
+C:\Users\TMK01\Downloads\Bom Delivery C# (1)\comandas\obj\Debug\comandas.Properties.Resources.resources
+C:\Users\TMK01\Downloads\Bom Delivery C# (1)\comandas\obj\Debug\comandas.csproj.GenerateResource.cache
+C:\Users\TMK01\Downloads\Bom Delivery C# (1)\comandas\obj\Debug\comandas.csproj.CoreCompileInputs.cache
+C:\Users\TMK01\Downloads\Bom Delivery C# (1)\comandas\obj\Debug\Bom Delivery.exe
+C:\Users\TMK01\Downloads\Bom Delivery C# (1)\comandas\obj\Debug\Bom Delivery.pdb
+C:\Users\TMK01\Downloads\Bom Delivery C# (1)\comandas\bin\Debug\Bom Delivery.exe.config
+C:\Users\TMK01\Downloads\Bom Delivery C# (1)\comandas\bin\Debug\Bom Delivery.exe
+C:\Users\TMK01\Downloads\Bom Delivery C# (1)\comandas\bin\Debug\Bom Delivery.pdb
+C:\Users\TMK01\Downloads\Bom Delivery C# (1)\comandas\bin\Debug\MsgPack.dll
+C:\Users\TMK01\Downloads\Bom Delivery C# (1)\comandas\bin\Debug\StackExchange.Redis.dll
+C:\Users\TMK01\Downloads\Bom Delivery C# (1)\comandas\bin\Debug\MsgPack.xml
+C:\Users\TMK01\Downloads\Bom Delivery C# (1)\comandas\bin\Debug\StackExchange.Redis.pdb
+C:\Users\TMK01\Downloads\Bom Delivery C# (1)\comandas\bin\Debug\StackExchange.Redis.xml
+C:\Users\TMK01\Downloads\Bom Delivery C# (1)\comandas\obj\Debug\comandas.csproj.CopyComplete
+C:\Users\TMK01\Downloads\Bom Delivery C# (1)\comandas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TMK01\Downloads\Bom Delivery C# (1)\comandas\bin\Debug\SocketIOSharp.dll
+C:\Users\TMK01\Downloads\Bom Delivery C# (1)\comandas\bin\Debug\websocket-sharp.dll
+C:\Users\TMK01\Downloads\Bom Delivery C# (1)\comandas\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\bin\Debug\Bom Delivery.exe
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\bin\Debug\SocketIOSharp.dll
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\bin\Debug\websocket-sharp.dll
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\bin\Debug\Bom Delivery.exe.config
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\bin\Debug\Bom Delivery.pdb
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\bin\Debug\MsgPack.dll
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\bin\Debug\StackExchange.Redis.dll
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\bin\Debug\MsgPack.xml
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\bin\Debug\StackExchange.Redis.pdb
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\bin\Debug\StackExchange.Redis.xml
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\obj\Debug\comandas.csprojAssemblyReference.cache
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\obj\Debug\comandas.Forms.Main.resources
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\obj\Debug\comandas.Forms.Pedido.resources
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\obj\Debug\comandas.Properties.Resources.resources
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\obj\Debug\comandas.csproj.GenerateResource.cache
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\obj\Debug\comandas.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\obj\Debug\comandas.csproj.CopyComplete
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\obj\Debug\Bom Delivery.exe
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\obj\Debug\Bom Delivery.pdb
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\obj\Debug\comandas.Forms.Login.resources
+C:\Users\TMK01\Downloads\Bom Delivery C# (1)\comandas\obj\Debug\comandas.Forms.Login.resources
+C:\Users\TMK01\Downloads\Bom Delivery C# (1)\comandas\obj\Debug\comandas.Forms.Configs.resources
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\obj\Debug\comandas.Forms.Configs.resources
+C:\Users\TMK01\Downloads\Projeto\comandas\bin\Debug\Bom Delivery.exe.config
+C:\Users\TMK01\Downloads\Projeto\comandas\bin\Debug\Bom Delivery.exe
+C:\Users\TMK01\Downloads\Projeto\comandas\bin\Debug\Bom Delivery.pdb
+C:\Users\TMK01\Downloads\Projeto\comandas\bin\Debug\MsgPack.dll
+C:\Users\TMK01\Downloads\Projeto\comandas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TMK01\Downloads\Projeto\comandas\bin\Debug\SocketIOSharp.dll
+C:\Users\TMK01\Downloads\Projeto\comandas\bin\Debug\StackExchange.Redis.dll
+C:\Users\TMK01\Downloads\Projeto\comandas\bin\Debug\websocket-sharp.dll
+C:\Users\TMK01\Downloads\Projeto\comandas\bin\Debug\MsgPack.xml
+C:\Users\TMK01\Downloads\Projeto\comandas\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TMK01\Downloads\Projeto\comandas\bin\Debug\StackExchange.Redis.pdb
+C:\Users\TMK01\Downloads\Projeto\comandas\bin\Debug\StackExchange.Redis.xml
+C:\Users\TMK01\Downloads\Projeto\comandas\obj\Debug\comandas.csprojAssemblyReference.cache
+C:\Users\TMK01\Downloads\Projeto\comandas\obj\Debug\comandas.Forms.Caixa.resources
+C:\Users\TMK01\Downloads\Projeto\comandas\obj\Debug\comandas.Forms.Configs.resources
+C:\Users\TMK01\Downloads\Projeto\comandas\obj\Debug\comandas.Forms.Login.resources
+C:\Users\TMK01\Downloads\Projeto\comandas\obj\Debug\comandas.Forms.Main.resources
+C:\Users\TMK01\Downloads\Projeto\comandas\obj\Debug\comandas.Forms.Pedido.resources
+C:\Users\TMK01\Downloads\Projeto\comandas\obj\Debug\comandas.Properties.Resources.resources
+C:\Users\TMK01\Downloads\Projeto\comandas\obj\Debug\comandas.csproj.GenerateResource.cache
+C:\Users\TMK01\Downloads\Projeto\comandas\obj\Debug\comandas.csproj.CoreCompileInputs.cache
+C:\Users\TMK01\Downloads\Projeto\comandas\obj\Debug\comandas.csproj.CopyComplete
+C:\Users\TMK01\Downloads\Projeto\comandas\obj\Debug\Bom Delivery.exe
+C:\Users\TMK01\Downloads\Projeto\comandas\obj\Debug\Bom Delivery.pdb
+C:\Users\TMK01\Downloads\Projeto\comandas\obj\Debug\comandas.Forms.Pagamento.resources
+C:\Users\TMK01\Downloads\Projeto\comandas\obj\Debug\comandas.Forms.Entregadores.resources
+C:\Users\Arthur\Desktop\Downloads\Projeto\comandas\bin\Debug\Bom Delivery.exe.config
+C:\Users\Arthur\Desktop\Downloads\Projeto\comandas\bin\Debug\Bom Delivery.exe
+C:\Users\Arthur\Desktop\Downloads\Projeto\comandas\bin\Debug\Bom Delivery.pdb
+C:\Users\Arthur\Desktop\Downloads\Projeto\comandas\bin\Debug\MsgPack.dll
+C:\Users\Arthur\Desktop\Downloads\Projeto\comandas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arthur\Desktop\Downloads\Projeto\comandas\bin\Debug\SocketIOSharp.dll
+C:\Users\Arthur\Desktop\Downloads\Projeto\comandas\bin\Debug\StackExchange.Redis.dll
+C:\Users\Arthur\Desktop\Downloads\Projeto\comandas\bin\Debug\websocket-sharp.dll
+C:\Users\Arthur\Desktop\Downloads\Projeto\comandas\bin\Debug\MsgPack.xml
+C:\Users\Arthur\Desktop\Downloads\Projeto\comandas\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arthur\Desktop\Downloads\Projeto\comandas\bin\Debug\StackExchange.Redis.pdb
+C:\Users\Arthur\Desktop\Downloads\Projeto\comandas\bin\Debug\StackExchange.Redis.xml
+C:\Users\Arthur\Desktop\Downloads\Projeto\comandas\obj\Debug\comandas.csprojAssemblyReference.cache
+C:\Users\Arthur\Desktop\Downloads\Projeto\comandas\obj\Debug\comandas.Forms.Caixa.resources
+C:\Users\Arthur\Desktop\Downloads\Projeto\comandas\obj\Debug\comandas.Forms.Configs.resources
+C:\Users\Arthur\Desktop\Downloads\Projeto\comandas\obj\Debug\comandas.Forms.Entregadores.resources
+C:\Users\Arthur\Desktop\Downloads\Projeto\comandas\obj\Debug\comandas.Forms.Login.resources
+C:\Users\Arthur\Desktop\Downloads\Projeto\comandas\obj\Debug\comandas.Forms.Main.resources
+C:\Users\Arthur\Desktop\Downloads\Projeto\comandas\obj\Debug\comandas.Forms.Pagamento.resources
+C:\Users\Arthur\Desktop\Downloads\Projeto\comandas\obj\Debug\comandas.Forms.Pedido.resources
+C:\Users\Arthur\Desktop\Downloads\Projeto\comandas\obj\Debug\comandas.Properties.Resources.resources
+C:\Users\Arthur\Desktop\Downloads\Projeto\comandas\obj\Debug\comandas.csproj.GenerateResource.cache
+C:\Users\Arthur\Desktop\Downloads\Projeto\comandas\obj\Debug\comandas.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\Downloads\Projeto\comandas\obj\Debug\comandas.csproj.CopyComplete
+C:\Users\Arthur\Desktop\Downloads\Projeto\comandas\obj\Debug\Bom Delivery.exe
+C:\Users\Arthur\Desktop\Downloads\Projeto\comandas\obj\Debug\Bom Delivery.pdb
+C:\Users\Arthur\Desktop\Downloads\Projeto\comandas\obj\Debug\comandas.Forms.Clientes.resources

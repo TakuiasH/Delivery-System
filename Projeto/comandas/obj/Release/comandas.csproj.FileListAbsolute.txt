@@ -1,0 +1,21 @@
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\bin\Release\Bom Delivery.exe.config
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\bin\Release\Bom Delivery.exe
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\bin\Release\Bom Delivery.pdb
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\bin\Release\MsgPack.dll
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\bin\Release\Newtonsoft.Json.dll
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\bin\Release\SocketIOSharp.dll
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\bin\Release\StackExchange.Redis.dll
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\bin\Release\websocket-sharp.dll
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\bin\Release\MsgPack.xml
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\bin\Release\Newtonsoft.Json.xml
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\bin\Release\StackExchange.Redis.pdb
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\bin\Release\StackExchange.Redis.xml
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\obj\Release\comandas.csprojAssemblyReference.cache
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\obj\Release\comandas.Forms.MainForm.resources
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\obj\Release\comandas.Forms.PedidoForm.resources
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\obj\Release\comandas.Properties.Resources.resources
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\obj\Release\comandas.csproj.GenerateResource.cache
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\obj\Release\comandas.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\obj\Release\comandas.csproj.CopyComplete
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\obj\Release\Bom Delivery.exe
+C:\Users\Arthur\Desktop\Bom Delivery C# (1)\comandas\obj\Release\Bom Delivery.pdb
