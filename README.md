@@ -3,6 +3,6 @@
 
 + Deliveryman System
 + Print system
-+ Auto Complete client in request
-+ Change status in request
++ Auto completion of customer data on order
++ Change status on order
 + 1-∞ Computers
